@@ -1,1 +1,2 @@
-# TestConsoleProject1
+# TestConsoleApp1
+This is my test project
